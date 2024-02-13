@@ -8,3 +8,4 @@ Features:
 ->Responsive Design: Enjoy a consistent experience across all devices.
 ->User-Friendly Interface: Intuitive design for easy navigation.
 ->API Integration: Utilizes a free API for accurate and reliable weather information.
+ 
