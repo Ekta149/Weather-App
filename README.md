@@ -3,7 +3,6 @@ A Weather App using HTML, CSS, and JavaScript. This app fetches weather data fro
 Enter the location name to get the tempertaure. 
 
 Features:
-
 ->Real-time Data: Stay informed with the latest weather updates.
 ->Responsive Design: Enjoy a consistent experience across all devices.
 ->User-Friendly Interface: Intuitive design for easy navigation.
